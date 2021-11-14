@@ -1,0 +1,31 @@
+body {
+    background-color: #e4e4e4;
+}
+
+h1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #1a1a1a;
+}
+
+ol {
+    padding-left: 100px;
+}
+
+.listItem {
+    padding-left: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipeImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
